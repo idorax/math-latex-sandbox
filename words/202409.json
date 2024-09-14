@@ -1,0 +1,84 @@
+{
+    "20240914": {
+        "iid": 1004,
+        "statistic_data": {
+            "math_cnt": 27,
+            "misc_cnt": 36
+        },
+        "math": [
+            {
+                "word": "proposition",
+                "soundmark": "[\u02ccpr\u0252p\u0259'z\u026a\u0283n]",
+                "meaning": "n. \u547d\u9898"
+            },
+            {
+                "word": "definition",
+                "soundmark": "[\u02ccdef\u026a'n\u026a\u0283n]",
+                "meaning": "n. \u5b9a\u4e49"
+            },
+            {
+                "word": "axiom",
+                "soundmark": "['\u00e6ksi\u0259m]",
+                "meaning": "n. \u516c\u7406"
+            },
+            {
+                "word": "theorem",
+                "soundmark": "['\u03b8\u026a\u0259r\u0259m]",
+                "meaning": "n. \u5b9a\u7406"
+            },
+            {
+                "word": "corollary",
+                "soundmark": "[k\u0259'r\u0252l\u0259ri]",
+                "meaning": "n. \u63a8\u8bba"
+            },
+            {
+                "word": "lemma",
+                "soundmark": "['lem\u0259]",
+                "meaning": "n. \u5f15\u7406"
+            },
+            {
+                "word": "conjecture",
+                "soundmark": "[k\u0259n'd\u0292ekt\u0283\u0259(r)]",
+                "meaning": ""
+            },
+            {
+                "word": "proof",
+                "soundmark": "[pru\u02d0f]",
+                "meaning": "n. \u8bc1\u660e"
+            },
+            {
+                "word": "solution",
+                "soundmark": "[s\u0259'lu\u02d0\u0283n]",
+                "meaning": "n. \u89e3\u7b54"
+            }
+        ],
+        "misc": []
+    },
+    "20240913": {
+        "iid": 1003,
+        "statistic_data": {
+            "math_cnt": 18,
+            "misc_cnt": 27
+        },
+        "math": [],
+        "misc": []
+    },
+    "20240912": {
+        "iid": 1002,
+        "statistic_data": {
+            "math_cnt": 0,
+            "misc_cnt": 18
+        },
+        "math": [],
+        "misc": []
+    },
+    "20240911": {
+        "iid": 1001,
+        "statistic_data": {
+            "math_cnt": 9,
+            "misc_cnt": 9
+        },
+        "math": [],
+        "misc": []
+    }
+}
