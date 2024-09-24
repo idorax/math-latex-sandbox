@@ -1,4 +1,4 @@
-TARGETS = 202409.json
+TARGETS = 202409A.json
 
 all: $(TARGETS)
 
