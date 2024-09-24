@@ -1,0 +1,112 @@
+20240924:
+    iid: 1008
+    sum: 72
+    math_words:
+    - multiply
+    - multiplication
+    - factor
+    - product
+    - divide
+    - division
+    - dividend
+    - divisor
+    - quotient
+
+20240923:
+    iid: 1007
+    sum: 63
+    math_words:
+    - add
+    - addition
+    - addend
+    - sum
+    - subtract
+    - subtraction
+    - minuend
+    - subtrahend
+    - difference
+
+20240921:
+    iid: 1006
+    sum: 54
+    math_words:
+    - real
+    -   rational
+    - irrational
+    - odd
+    - even
+    - increasing
+    - decreasing
+    - complicated
+    - complex
+
+20240919:
+    iid: 1005
+    sum: 45
+    math_words:
+    - derive        # [dɪ'raɪv]        #   v. 起源
+    - derivative    # [dɪ'rɪvətɪv]     # adj. 派生的 n. 导数
+    - tangent       # ['tændʒənt]      # adj. 相切的 n. 正切
+    - arbitrary     # ['ɑːbɪtrəri]     # adj. 任意的
+    - integrate     # ['ɪntɪɡreɪt]     #   v. 整合
+    - integral      # ['ɪntɪɡrəl]      #   n. 积分
+    - differentiate # [ˌdɪfə'renʃieɪt] #   v. 区分
+    - differential  # [ˌdɪfə'renʃl]    #   n. 微分
+    - origin        # ['ɒrɪdʒɪn]       #   n. 原点
+    - distinct      # [dɪ'stɪŋkt]      # adj. 不同的
+
+20240918:
+    iid: 1004
+    sum: 36
+    math_words:
+    - slope         # [sləʊp]          # n. 斜率
+    - derivative    # [dɪ'rɪvətɪv]     # n. 导数
+    - differential  # [ˌdɪfə'renʃl]    # n. 微分
+    - integral      # ['ɪntɪɡrəl]      # n. 积分
+    - limit         # ['lɪmɪt]         # n. 极限
+    - continuity    # [ˌkɒntɪ'njuːəti] # n. 连续性
+    - interval      # ['ɪntəvl]        # n. 区间
+    - neighbourhood # ['neɪbəhʊd]      # n. 邻域
+    - infinity      # [ɪn'fɪnəti]      # n. 无穷大
+
+20240914:
+    iid: 1003
+    sum: 27
+    math_words:
+    - proposition # [ˌprɒpə'zɪʃn]    # n. 命题
+    - definition  # [ˌdefɪ'nɪʃn]     # n. 定义
+    - axiom       # ['æksiəm]        # n. 公理
+    - theorem     # ['θɪərəm]        # n. 定理
+    - corollary   # [kə'rɒləri]      # n. 推论
+    - lemma       # ['lemə]          # n. 引理
+    - conjecture  # [kən'dʒektʃə(r)] # n. 猜想
+    - proof       # [pruːf]          # n. 证明
+    - solution    # [sə'luːʃn]       # n. 解答
+
+20240913:
+    iid: 1002
+    sum: 18
+    math_words:
+    - mathematics    # [ˌmæθə'mætɪks]  #   n. 数学
+    - mathematical   # [ˌmæθə'mætɪkl]  # adj. 数学的
+    - mathematician  # [ˌmæθəmə'tɪʃn]  #   n. 数学家
+    - arithmetics    # [æ'rɪθmetɪks]   #   n.  算术
+    - arithmetic     # [ə'rɪθmətɪk]    # adj. 算术的
+    - algebra        # ['ældʒɪbrə]     #   n. 代数
+    - algebraic      # [ˌældʒɪ'breɪɪk] # adj. 代数的
+    - geometry       # [dʒi'ɑːmətri]   #   n. 几何
+    - geometric      # [ˌdʒiːə'metrɪk] # adj. 几何的
+
+20240911:
+    iid: 1001
+    sum: 9
+    math_words:
+    - calculus  # ['kælkjələs]  # n. 微积分
+    - calculate # ['kælkjuleɪt] # v. 计算
+    - function  # ['fʌŋkʃn]     # n. 函数
+    - domain    # [doʊ'meɪn]    # n. 定义域
+    - range     # [reɪndʒ]      # n. 值域
+    - codomain  # ['kɒdoʊmeɪn]  # n. 陪域
+    - variable  # ['veriəbl]    # n. 变量
+    - independent variable      # n. 自变量
+    -   dependent variable      # n. 因变量
