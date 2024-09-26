@@ -1,4 +1,5 @@
-TARGETS = 202409A.json
+TARGETS = 202409A.json \
+          wreader
 
 all: $(TARGETS)
 
@@ -7,6 +8,10 @@ all: $(TARGETS)
 %.json: %.yaml
 	imod $<
 	yamladm j $< > $@
+
+%: %.py
+	cp $< $@
+	chmod +x $@
 
 clean:
 
